@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: floralwhite;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.content{
+    padding: 0 5px;
+}
+.footer{
+    /* padding: 0 10px; */
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.header{
+    text-align: center;
+    color: #505050;
+}
+
+h2{
+    color: #505050;
+    border-left: 5px solid #bb904c;
+    padding-left: 8px;
+    font-family: 'Merriweather', serif;
+}
+.photo-wrap{
+    background-color: #e1d6c4;
+    text-align: center;
+    padding: 12px 0 8px 0;
+}
+
+.img {
+    border: 1px solid gray;
+}
+
+.navbar{
+    overflow: hidden;
+    background-color: #494949;
+    text-align: center;
+}
+
+.navbar a{
+    display: inline-block;
+    color: rgb(242 242 242);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+.main{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.text{
+    padding-left: 14px;
+}
+
+.a-contacts{
+    color: brown;
+    text-decoration: none;
+}
+.p-contacts{
+    padding-left: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.name{
+    font-family: 'Merriweather', serif;
+}
+
